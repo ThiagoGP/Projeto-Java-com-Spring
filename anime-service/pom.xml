@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>academy.devdojo</groupId>
-	<artifactId>anime-service</artifactId>
+	<artifactId>spring-boot-direito-das-trincheiras</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Anime Service</name>
 	<description>Projeto Exemplo do curso Spring Boot Direto das Trincheiras</description>
